@@ -1,5 +1,6 @@
 # Python-Lab
 python lab activities
+
 Activity-1(a)
 ![Screenshot 2023-10-17 201844](https://github.com/Kartik200428/Python-Lab/assets/121052859/06999395-ff4d-4ba8-a1ca-2d4461481ab3)
 
@@ -19,8 +20,10 @@ Activity-4
 ![Activity4,0utput_af437bb889d8242b8294322e7fcda4c8](https://github.com/Kartik200428/Python-Lab/assets/121052859/92143c09-b980-4c15-aeed-3d5ba136259b)
 
 Activity-5
+
 ![Activity5-output_c9290aff2ba42c5099fa7031756336ed](https://github.com/Kartik200428/Python-Lab/assets/121052859/11584b75-4265-4f25-ab47-c955edf4c74f)
 
 Activity-6
+
 ![Activity6-output_946e3d8d3cd5148a673c396a7aa0d351](https://github.com/Kartik200428/Python-Lab/assets/121052859/04458da7-8add-4e33-952c-28e26fbe72c3)
 
