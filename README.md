@@ -27,3 +27,14 @@ Activity-6
 
 ![Activity6-output_946e3d8d3cd5148a673c396a7aa0d351](https://github.com/Kartik200428/Python-Lab/assets/121052859/04458da7-8add-4e33-952c-28e26fbe72c3)
 
+Activity-7
+
+![Screenshot 2023-11-19 224143](https://github.com/Kartik200428/Python-Lab/assets/121052859/40c4968f-c7ba-4d34-afe4-e11f82c8b5f5)
+
+Activity-8
+
+![Screenshot 2023-11-19 224309](https://github.com/Kartik200428/Python-Lab/assets/121052859/8cc99774-7f9d-40b2-90b7-38447101efd1)
+
+
+
+
