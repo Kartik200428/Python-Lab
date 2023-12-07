@@ -51,3 +51,8 @@ Activity-12
 
 ![12](https://github.com/Kartik200428/Python-Lab/assets/121052859/e8417636-986a-4973-a733-f36e7cfe0a68)
 
+Activity-14
+
+![Screenshot 2023-12-01 113407](https://github.com/Kartik200428/Python-Lab/assets/121052859/84f61dec-bc0b-47a3-84b5-f797dd8e56d3)
+
+
